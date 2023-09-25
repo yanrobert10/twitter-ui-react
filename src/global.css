@@ -26,20 +26,4 @@ a {
   color: inherit;
 }
 
-/** Page: Timeline**/
-
-.layout {
-  margin: 0;
-  max-width: 1000px;
-
-  display: grid;
-  grid-template-columns: 300px 1fr;
-}
-
-.content {
-  border-left: 1px solid #ebeef0;
-  border-right: 1px solid #ebeef0;
-  
-}
-
 

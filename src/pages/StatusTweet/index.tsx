@@ -3,6 +3,7 @@ import { Header } from "../../components/Header"
 import { Tweet } from "../../components/Tweet"
 import { Separator } from "../../components/separator"
 import "./styles.css"
+import { PaperPlaneRight } from "phosphor-react"
 
 
 export function StatusTweet() {
@@ -51,7 +52,10 @@ export function StatusTweet() {
                 placeholder="Tweet your answer"
               />
             </label>
-            <button type='submit'>Answer</button>
+            <button type='submit'>
+              <PaperPlaneRight/>
+              <span>Answer</span>
+              </button>
           </form>
 
           
