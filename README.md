@@ -7,7 +7,7 @@
 
 <h1 align="center">
     <a href="https://twitter-app-clone-yan.netlify.app/">
-    <img src="./src/assets/image/preview.PNG" style="width: 40rem; height: auto;" alt="Influencer">
+    <img src="./src/assets/image/preview.PNG"target="_blank" style="width: 40rem; height: auto;" alt="Influencer">
     </a>
 </h1>
 
